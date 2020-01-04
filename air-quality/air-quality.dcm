@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SDR08540M3
+D Buzzer, polarized
+K quartz resonator ceramic
+F ~
+$ENDCMP
+#
+#End Doc Library

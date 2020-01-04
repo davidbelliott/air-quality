@@ -1,6 +1,6 @@
 # IoT Air Quality Monitor Board
 
-![3D render of the board](doc/fig/board-3d.png)
+<img src=doc/fig/board-3d.png width=500px>
 
 ## Overview
 
